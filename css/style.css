@@ -28,6 +28,8 @@ body, html {
 	padding:0;
 	float:left;
 	list-style-type:none;
+	background-color: #222;
+	width:auto;
 }
 
 .nav-main > ul > li {
