@@ -17,7 +17,7 @@ body {
   background-color: #E6E6E6;
 }
 .docs-section {
-  margin-top: 50%;
+  margin-top: 40%;
   padding: 30px;
   display: table;
   font-size:1.5rem
@@ -42,4 +42,9 @@ body {
 .footer-link {
   margin-right: 35px;
   line-height: 6.5rem;
+}
+.center {
+  margin-left: auto;
+  margin-right: auto;
+  width: 50%;
 }
